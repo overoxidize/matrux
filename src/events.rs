@@ -29,7 +29,7 @@ lazy_static! {
 ///
 /// # Implementations
 ///
-/// This struct is implemented for the `Clone` trait, allowing it to be cloned.
+/// This trait `Clone` is implemented for the struct Event, allowing it to be cloned.
 ///
 /// # Examples
 ///
